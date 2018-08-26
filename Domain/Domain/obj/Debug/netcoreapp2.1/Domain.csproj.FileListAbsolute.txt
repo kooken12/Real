@@ -1,0 +1,4 @@
+C:\Users\Berkan\source\repos\Domain\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+C:\Users\Berkan\source\repos\Domain\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Berkan\source\repos\Domain\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Berkan\source\repos\Domain\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
